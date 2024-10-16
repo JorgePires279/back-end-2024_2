@@ -1,0 +1,7 @@
+Pergunta: Daniel Dalalama destacou a importância do conhecimento de negócios versus o uso de soluções prontas e automatizadas. Cite pelo menos uma solução de segurança usada em sistemas web de backend e justifique o porquê da possibilidade de não ser efetiva contra todos os tipos de ameaças?
+
+Resposta: Uma solução de segurança comumente empregada em sistemas web de backend é a criptografia de dados. Essa técnica é fundamental para proteger informações sensíveis, garantindo que apenas usuários autorizados possam acessá-las. Para isso, são utilizados protocolos como TLS/SSL para criptografar o tráfego de rede e algoritmos para proteger os dados armazenados.
+
+Entretanto, a criptografia pode se mostrar ineficaz se um atacante conseguir acessar as chaves de segurança. Nesse cenário, ele poderá descriptografar os dados, comprometendo a proteção oferecida. Isso pode ocorrer devido a falhas na gestão das chaves, vazamentos de informação ou ataques internos.
+
+Ademais, a eficácia da criptografia pode ser comprometida se forem utilizados algoritmos desatualizados ou com vulnerabilidades conhecidas, como DES ou MD5, que podem tornar a segurança insuficiente.
