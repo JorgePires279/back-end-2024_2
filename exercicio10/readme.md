@@ -2,7 +2,8 @@
 
 ## Serviço Escolhido:
 
-* Rede Social de Fotos (Facebook)
+* Rede Social Facebook
+      * Grude de fotos
 
 ### Casos de uso:
 
